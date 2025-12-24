@@ -26,7 +26,7 @@ It is designed for students, researchers, and academics who want a simple, fast,
 
 ## 💻 Source Code
 
-GitHub Repository:
+**GitHub Repository:**
 [Paperbase](https://github.com/VedantMS/Paperbase)
 
 ---
