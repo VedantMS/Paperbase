@@ -24,25 +24,12 @@ It is designed for **students, researchers, and academics** who want a simple, f
 
 ## 🖥️ Installation (Windows)
 
-### Option 1: Installer (Recommended)
-
 1. Download **`PaperbaseSetup.exe`** from the **Releases** section
 2. Run the installer
 3. Launch **Paperbase** from the Start Menu or Desktop shortcut
 
 ✔ No Qt installation required
 ✔ Standard Windows install & uninstall support
-
----
-
-### Option 2: Portable Version
-
-1. Download the ZIP release
-2. Extract the folder
-3. Run **`Paperbase.exe`**
-
-✔ No installation needed
-✔ Fully portable
 
 ---
 
