@@ -1,15 +1,34 @@
-# Paperbase
+\# Paperbase
 
-\*Paperbase\* is a desktop application for managing research papers (PDFs) and generating bibliographies in multiple academic formats.
+
+
+\*\*Paperbase\*\* is a desktop application for managing research papers (PDFs) and generating bibliographies in multiple academic formats.
+
+
+
 It is designed for students, researchers, and academics who want a simple, offline-first tool to organize papers and export citations.
+
+
+
 ---
-Features
-- Select a root folder containing research PDFs
-- Add and edit metadata (title, authors, year, journal, DOI, URL, tags)
-- Persistent local storage using JSON
-- Open PDFs directly from the app
-- Select multiple papers using checkboxes
-- Generate bibliographies in multiple formats:
+
+
+
+\## Features
+
+
+
+\- Select a root folder containing research PDFs
+
+\- Add and edit metadata (title, authors, year, journal, DOI, URL, tags)
+
+\- Persistent local storage using JSON
+
+\- Open PDFs directly from the app
+
+\- Select multiple papers using checkboxes
+
+\- Generate bibliographies in multiple formats:
 
 &nbsp; - Plain
 
