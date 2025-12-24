@@ -1,180 +1,126 @@
-#Paperbase
+# 📚 Paperbase
 
+**Paperbase** is a modern desktop application for managing research papers (PDFs) and generating bibliographies in multiple academic formats — all **offline**, **locally**, and **without external dependencies**.
 
-
-\*\*Paperbase\*\* is a desktop application for managing research papers (PDFs) and generating bibliographies in multiple academic formats.
-
-
-
-It is designed for students, researchers, and academics who want a simple, offline-first tool to organize papers and export citations.
-
-
+It is designed for **students, researchers, and academics** who want a simple, fast, and reliable way to organize papers and export citations without relying on online services.
 
 ---
 
+## ✨ Key Features
 
+* 📂 Select a root folder containing research PDF files
+* 📝 Add and edit rich metadata:
 
-\## Features
+  * Title
+  * Authors
+  * Year
+  * Journal / Publisher
+  * DOI
+  * URL
+  * Tags
+* 💾 Persistent local storage using JSON
+* 📄 Open PDFs directly from within the application
+* ☑️ Select multiple papers using checkboxes
+* 🧾 Generate bibliographies in multiple formats:
 
-
-
-\- Select a root folder containing research PDFs
-
-\- Add and edit metadata (title, authors, year, journal, DOI, URL, tags)
-
-\- Persistent local storage using JSON
-
-\- Open PDFs directly from the app
-
-\- Select multiple papers using checkboxes
-
-\- Generate bibliographies in multiple formats:
-
-&nbsp; - Plain
-
-&nbsp; - IEEE
-
-&nbsp; - APA
-
-&nbsp; - Springer
-
-&nbsp; - Chicago
-
-&nbsp; - MLA
-
-&nbsp; - BibTeX
-
-\- LaTeX `\\bibitem{}` support
-
-\- Copy bibliography to clipboard
-
-\- Export bibliography to a text file
-
-\- Fully offline — no external dependencies
-
-
+  * Plain
+  * IEEE
+  * APA
+  * Springer
+  * Chicago
+  * MLA
+  * BibTeX
+* 📐 LaTeX `\bibitem{}` output support
+* 📋 Copy bibliography to clipboard
+* 📤 Export bibliography to a text file
+* 🔒 Fully offline & local-first (no internet required)
+* ⚡ Lightweight, fast, and easy to use
 
 ---
 
+## 🖥️ Installation (Windows)
 
+### Option 1: Installer (Recommended)
 
-\## Installation (Windows)
+1. Download **`PaperbaseSetup.exe`** from the **Releases** section
+2. Run the installer
+3. Launch **Paperbase** from the Start Menu or Desktop shortcut
 
-
-
-\### Option 1: Installer (Recommended)
-
-
-
-1\. Download `PaperbaseSetup.exe` from the \*\*Releases\*\* section
-
-2\. Run the installer
-
-3\. Launch Paperbase from the Start Menu or Desktop shortcut
-
-
-
-\### Option 2: Portable Version
-
-
-
-1\. Download the ZIP release
-
-2\. Extract the folder
-
-3\. Run `Paperbase.exe`
-
-
-
-(No Qt installation required)
-
-
+✔ No Qt installation required
+✔ Standard Windows install & uninstall support
 
 ---
 
+### Option 2: Portable Version
 
+1. Download the ZIP release
+2. Extract the folder
+3. Run **`Paperbase.exe`**
 
-\## Usage
-
-
-
-1\. Launch the application
-
-2\. Select a folder containing PDF files
-
-3\. Add metadata for each paper
-
-4\. Select papers from the table
-
-5\. Generate bibliography in the desired format
-
-6\. Copy or export the bibliography
-
-
+✔ No installation needed
+✔ Fully portable
 
 ---
 
+## 🚀 How to Use
 
-
-\## Bibliography Formats
-
-
-
-\- IEEE
-
-\- APA
-
-\- Springer
-
-\- Chicago
-
-\- MLA
-
-\- BibTeX
-
-\- LaTeX `\\bibitem{}`
-
-
+1. Launch the application
+2. Select a folder containing PDF files
+3. Add or update metadata for each paper
+4. View saved papers in the table
+5. Select papers using checkboxes
+6. Generate bibliography in the desired format
+7. Copy or export the bibliography as needed
 
 ---
 
+## 📑 Supported Bibliography Formats
 
-
-\## Built With
-
-
-
-\- C++
-
-\- Qt 6
-
-\- nlohmann/json
-
-\- NSIS (for installer)
-
-
+* IEEE
+* APA
+* Springer
+* Chicago
+* MLA
+* BibTeX
+* LaTeX `\bibitem{}`
 
 ---
 
+## 🛠️ Built With
 
-
-\## License
-
-
-
-MIT License (or specify another license)
-
-
+* **C++**
+* **Qt 6**
+* **nlohmann/json**
+* **NSIS** (Windows installer)
 
 ---
 
+## 📄 License
 
+MIT License
+(You may replace this with another license if desired.)
 
-\## Author
+---
 
+## 👤 Author
 
+**Vedant Manoj Salunke**
 
-Vedant Salunke
+---
 
+## ⭐ Notes
 
+* This project follows **Qt and CMake best practices**
+* Source code and binaries are distributed separately
+* Installer is available via GitHub Releases
 
+---
+
+If you want next, I can help you:
+
+* add **screenshots** to this README
+* write a **resume-ready project description**
+* add a **LICENSE file**
+* prepare a **project report / documentation PDF**
+
+Just tell me 👍
